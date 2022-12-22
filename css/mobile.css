@@ -1,0 +1,164 @@
+@media only screen and (max-height:1200px){
+    /* #header {
+        
+    }
+    
+    #header::before {
+       
+    }
+    
+    .header_container {
+       
+    }
+    
+    .header_container img {
+       
+    }
+    
+    .header_container h2 {
+        
+    }
+    
+    .header_container p {
+        
+    }
+ */
+
+
+    
+    /* this is fore section1 ............................. */
+    /* #section1 {
+       
+    }
+    
+    .container1 {
+       
+    }
+    
+    #section1 nav ul {
+       
+    }
+     */
+    #section1 nav ul li {
+        list-style: none;
+    }
+    
+    /* #section1 nav ul li a {
+       
+    }
+    
+    #section1 nav ul li a:hover {
+       
+    } */
+
+
+
+    
+    /* this is for section 2....................................... */
+    
+    /* #section2 {
+        
+    }
+    
+    .container2 {
+     
+    }
+    
+    #box1 {
+       
+    }
+    #box1 h2 {
+        
+    }
+    
+    #box1 p {
+        
+    }
+    
+    #box1 p button{
+       
+    } */
+
+
+
+
+    /* #box1 p button:hover{
+        background-color: #154087;
+        
+    } */
+    /* #box1 p button a{
+       
+    
+    }
+     #box1 p button a:hover{
+        
+       
+        
+    
+    } 
+    
+    #box1 table {
+        
+        
+    }
+     */
+    
+
+
+    
+    
+    /* this is for section3 ........................................... */
+    /* #section3{
+        
+    }
+    
+    .container3{
+        
+    } */
+    .box_section3{
+        height: 53vh;
+        justify-content: center;
+    }
+    /* .box_section3:hover{
+        
+        
+    } */
+    
+    #box_section3a img{
+        padding: 17px 0;
+    }
+    /* #box_section3a p{
+       
+    } */
+    #box_section3b img{
+        padding: 17px 0;
+    }
+    /* #box_section3b p{
+       
+    } */
+    #btn3{
+       
+        cursor: pointer;
+    }
+    /* #btn3:hover{
+      
+    } */
+    
+    
+    
+    
+    
+    /* this is for section4 ..................................................................... */
+    /* #section4{
+       
+    }
+    
+    .container4{
+       
+    }
+    .container4::before{
+       
+       
+    }
+          */
+}
